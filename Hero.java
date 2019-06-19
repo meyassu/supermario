@@ -1,4 +1,4 @@
-public abstract class Hero{
+public abstract class Hero extends Character{
 
    private String name;
    private int size; 
